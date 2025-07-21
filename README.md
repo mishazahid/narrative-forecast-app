@@ -29,7 +29,7 @@ A Streamlit app that lets you:
 1. **Clone the repo**
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/narrative-forecast-app.git
+   git clone https://github.com/mishazahid/narrative-forecast-app.git
    cd narrative-forecast-app
    ```
 
